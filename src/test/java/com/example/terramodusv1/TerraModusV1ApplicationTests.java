@@ -1,10 +1,10 @@
-package com.example.terramodusv1;
+package com.example.terramodusvt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TerraModusvcApplicationTests {
+class TerraModusVTApplicationTests {
 
     @Test
     void contextLoads() {
