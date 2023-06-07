@@ -400,7 +400,7 @@ public class DevisPersonneAmiableService {
         boolean[] pos2 = new boolean[consDocsSupp.length];
         for (int i = 0; i < consDocsSupp.length; i++) {
             for (int j = 0; j < consDocsSuppFournir.length; j++) {
-                if (consDocs[i].contains(consDocsSuppFournir[j])) pos2[i] = true;
+                if (consDocsSupp[i].contains(consDocsSuppFournir[j])) pos2[i] = true;
             }
         }
 
